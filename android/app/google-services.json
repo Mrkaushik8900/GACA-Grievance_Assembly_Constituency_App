@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935178760124",
+    "project_id": "gaca-49429",
+    "storage_bucket": "gaca-49429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935178760124:android:bda8b22c7e5168ab87c5b9",
+        "android_client_info": {
+          "package_name": "com.example.gaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwVUnFcFqkOM0tCRpCDZkLlsJfFJ7-sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
